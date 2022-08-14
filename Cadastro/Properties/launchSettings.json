@@ -8,7 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Prod SelfHosting": {
+    "Prod SelfHostin": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
