@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+4ivsaHO3cSH9oafA6TsaTqHYMDLKYi0RhJbBbPK5xSnCxgY4cDnyO8oyLvIdihKP1tONRkFQ8G7+8Q0tGbDA==",
+  "success": true,
+  "projectFilePath": "C:\\Proj\\Cadastro\\Cadastro\\Cadastro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
